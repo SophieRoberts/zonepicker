@@ -6,4 +6,4 @@ Create text field with class `zonpicker`
 
 Call zonepicker on the input `$(input.zonpicker).zonepicker()`
 
-Behold! Map appears, hover over country to show timezones and the click to select the chosen timezone.
+Behold! Map appears, hover over country to show timezones and then click to select the chosen timezone.
