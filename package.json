@@ -1,7 +1,7 @@
 {
   "name": "zonepicker",
   "version": "1.0.0",
-  "description": "svg interface to populate input field with selected timezone name.",
+  "description": "Pick a timezones using the svg map interface to populate input field with selected timezone name and offset.",
   "main": "zonepicker.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
